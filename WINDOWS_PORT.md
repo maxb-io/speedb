@@ -7,7 +7,7 @@
 * Sherlock Huang  https://github.com/SherlockNoMad
 
 ## Introduction
-RocksDB is a well proven open source key-value persistent store, optimized for fast storage. It provides scalability with number of CPUs and storage IOPS, to support IO-bound, in-memory and write-once workloads, most importantly, to be flexible to allow for innovation.
+RocksDB is a well proven open source key-value persistent store, optimized for fast storage. It provides scalability with number of CPUs and storage IOPS, to support IO-bound, in-memory and write-once workloads, most importantly, to be flexible to allow for innovation;
 
 As Microsoft Bing team we have been continuously pushing hard to improve the scalability, efficiency of platform and eventually benefit Bing end-user satisfaction.  We would like to explore the opportunity to embrace open source, RocksDB here, to use, enhance and customize for our usage, and also contribute back to the RocksDB community. Herein, we are pleased to offer this RocksDB port for Windows platform.
 
