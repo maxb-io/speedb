@@ -16,7 +16,7 @@
 # Speedb
 [Website](https://www.speedb.io) • [Docs](https://docs.speedb.io/) • [Community Discord](https://discord.com/invite/5fVUUtM2cG) • [Videos](https://www.youtube.com/watch?v=jM987hjxRxI&list=UULF6cdtbCAzRnWtluhMsmjGKw&index=2)
 
-A first-of-its-kind, community-led key-value storage engine, designed to support modern data sets. 
+A first-of-its-kind, community-led key-value storage engine, designed to support modern data sets
 
 Speedb is a 100% RocksDB compatible, drop-in library, focused on high performance, optimized for modern storage hardware and scale, on-premise and in the cloud. 
 We strive to simplify the usability of complex data engines as well as stabilize and improve performance for any use case.
